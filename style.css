@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  color:#281B50;
+  background-color: lightgray;
+}
+
+section{
+  text-align: center;
+  outline: 3px solid #281B50;
+  margin-top: -10px;
+  background-color: #9d9d9d ;
+  color:white;
+}
+body{
+  background-color: #9d9d9d;
+  margin-top: -20px;
+  color:white;
+}
+img{
+  border-radius: 20px 20px 20px 20px;
+  margin-left: 450px;
+}
